@@ -1,0 +1,5 @@
+interface:
+  display_name: "MD Bid to DOCX"
+  short_description: "Polished Word bids from Markdown"
+  default_prompt: "Use $md-bid-to-docx to convert this Markdown bid into a polished editable Word DOCX with rendered diagrams and QA."
+
